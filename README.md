@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker, MySQL, MongoDB, NodeJS, Express, JWT, TypeScript, POO, SOLID and Deploy.**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Rest API, Redux, Context API**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Fetch API, Redux, Context API**
 
 - 📫 How to reach me **fernando_gouveia2@hotmail.com**
 
