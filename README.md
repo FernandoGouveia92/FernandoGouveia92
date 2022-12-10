@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React, Fetch API, Redux, Context API**
 
-- 📫 How to reach me **fernando_gouveia2@hotmail.com**
+- 📫 How to reach me **fernando_gouveia2@hotmail.com** || **gouveiafernando92@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fernando-gouveia-562218a2/](https://www.linkedin.com/in/fernando-gouveia-562218a2/)
 
